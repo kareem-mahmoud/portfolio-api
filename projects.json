@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Africano",
+    "imgUrl": "africano-FI.png",
+    "description": "lorem ipsum",
+    "category": "Website",
+    "stack": "WordPress",
+    "skills": ["HTML5", "CSS3", "JS", "jQuery", "PHP"],
+    "state": "live",
+    "liveFlag": true,
+    "liveUrl": "https://africanosproperties.com/"
+  },
+  {
+    "id": 2,
+    "name": "Africano Pro 2",
+    "imgUrl": "placeholder.jpg",
+    "description": "lorem ipsum",
+    "category": "Other",
+    "stack": "WordPress",
+    "skills": ["html", "css", "js"],
+    "state": "live",
+    "liveFlag": false,
+    "liveUrl": "https://wwww.live.com"
+  },
+  {
+    "id": 3,
+    "name": "Africano Pro 3",
+    "imgUrl": "placeholder.jpg",
+    "description": "lorem ipsum",
+    "category": "Website",
+    "stack": "WordPress",
+    "skills": ["html", "css", "js"],
+    "state": "live",
+    "liveFlag": true,
+    "liveUrl": "https://wwww.live.com"
+  },
+  {
+    "id": 4,
+    "name": "Africano Pro 4",
+    "imgUrl": "placeholder.jpg",
+    "description": "lorem ipsum",
+    "category": "Project",
+    "stack": "WordPress",
+    "skills": ["html", "css", "js"],
+    "state": "live",
+    "liveFlag": false,
+    "liveUrl": "https://wwww.live.com"
+  }
+]
