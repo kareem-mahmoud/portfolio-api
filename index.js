@@ -39,6 +39,9 @@ export default {
     }
 
     if (method === "GET" && url.pathname === "/api/projects") {
+      // Fetch the projects.json file from the Worker's assets
+      const response = await fetch("projects.json");
+      const projects = await response.json();
       return json(projects);
     }
 
