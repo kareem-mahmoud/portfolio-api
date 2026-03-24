@@ -1,16 +1,12 @@
 {
-  "name": "backend-api",
+  "name": "portfolio-api-workers",
+  "private": true,
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "cors": "^2.8.6",
-    "express": "^5.2.1"
+  "devDependencies": {
+    "wrangler": "^4.8.0"
   }
 }
