@@ -42,12 +42,19 @@ export default {
       return json(projects);
     }
 
-    if (method === "GET" && url.pathname === "/api/project/{id}") {
-      const id = url.searchParams.get("id");
-      const project = projects.find((p) => p.id === parseInt(id));
+    if (method === "GET" && url.pathname.startsWith("/api/project/")) {
+      const id = Number(url.pathname.split("/").pop());
+
+      if (!Number.isInteger(id)) {
+        return json({ error: "Invalid project id" }, { status: 400 });
+      }
+
+      const project = projects.find((p) => p.id === id);
+
       if (!project) {
         return json({ error: "Project not found" }, { status: 404 });
       }
+
       return json(project);
     }
 
