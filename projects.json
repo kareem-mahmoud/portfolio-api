@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "Africano",
+    "name": "Africanos Property Developers Ltd",
     "imgUrl": "africanosproperties.png",
-    "description": "lorem ipsum",
+    "description": "Africanos Property Developers Ltd is an established family-run real estate business specializing in residential and commercial property in Larnaca, Cyprus and its surrounding district. Africanos Developers is one of the leading property developers in Cyprus serving its local and international clientele for more than thirty years. Founder and Managing Director of Africanos Property Developers, Mr. Anastasis Anastasiou has combined his knowledge of the real estate market in Cyprus with the dedication and expertise of his sons, Themis and Panayiotis. Africanos Property Developers started as a small venture in 1997 in Larnaca and has flourished into a reputable organization with countless sales in first-class properties. Africanos Property Developers accomplished more than 200 multi-residential projects that have been sold and completed together with the issue of all relevant property title deeds. We offer much more than secure real estate transactions. Our dedicated Team provides all professional Real Estate related services that make any property transaction stress-free as we assist our clients through all stages of purchasing a property in Cyprus. Africanos specialized guidance assists through the fast-track Permanent Residence Programme helping with the the granting of permanent residence permits to foreign real estate investors in Cyprus.",
     "category": "Website",
     "stack": "WordPress",
     "skills": ["HTML5", "CSS3", "JS", "jQuery", "PHP"],
