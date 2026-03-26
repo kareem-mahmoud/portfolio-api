@@ -42,6 +42,15 @@ export default {
       return json(projects);
     }
 
+    if (method === "GET" && url.pathname === "/api/projects/{id}") {
+      const id = url.searchParams.get("id");
+      const project = projects.find((p) => p.id === parseInt(id));
+      if (!project) {
+        return json({ error: "Project not found" }, { status: 404 });
+      }
+      return json(project);
+    }
+
     return json({ error: "Not Found" }, { status: 404 });
   },
 };
