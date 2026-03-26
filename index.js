@@ -42,7 +42,7 @@ export default {
       return json(projects);
     }
 
-    if (method === "GET" && url.pathname === "/api/projects/{id}") {
+    if (method === "GET" && url.pathname === "/api/project/{id}") {
       const id = url.searchParams.get("id");
       const project = projects.find((p) => p.id === parseInt(id));
       if (!project) {
