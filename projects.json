@@ -46,5 +46,17 @@
     "state": "live",
     "liveFlag": true,
     "liveUrl": "https://farossearesidence.com/"
+  },
+  {
+    "id": 5,
+    "name": "Eastern Partnership Electronic Communications Regulators Network (EaPeReg)",
+    "imgUrl": "eapereg.png",
+    "description": "The Eastern Partnership Electronic Communications Regulators Network (EaPeReg) is a thriving exchange of information platform that ever since its establishment (2012) has been successfully bringing together the EaP National Regulatory Authorities (NRAs). Those of EU member states with a clear goal to support the EaP countries in the implementation of the EU best practices, mainly by facilitating the direct access to best practices, guiding the EaP countries into the EU policy and principles in the telecom sector, and hence enabling the extension of the EU digital single market benefits to the EaP citizens’ benefits and welfare. The unique concept of EaPeReg has helped the EaP countries to achieve significant progress on the objectives set under deliverable 7 Harmonization of digital market , notably in the area of roaming, by developing Regional Roaming Agreement, better coordination of radio spectrum, developing in this regard the Regional Spectrum Agreement, ensuring an appropriate legal framework that strengthens the independence of the NRAs independence and empowers them to take measures to ensure competition on the telecom markets and to empower the end-users. Considering that digital transformation requires a harmonized approach on issues that are transnational by nature (i.e. spectrum coordination, roaming etc) the role of the regional associations has become more and more important. Therefore, EaPeReg has established very successful cooperation with other similar exchange of practice platforms (BEREC, EMERG, REGULATEL) and actively participate in the ITU activities, pursuant to the MoU of cooperation signed in this regard.",
+    "category": "Website",
+    "stack": "WordPress",
+    "skills": ["HTML5", "CSS3", "JS", "jQuery", "PHP"],
+    "state": "live",
+    "liveFlag": true,
+    "liveUrl": "https://eapereg.org/"
   }
 ]
