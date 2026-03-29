@@ -37,14 +37,14 @@
   },
   {
     "id": 4,
-    "name": "Africano Pro 4",
-    "imgUrl": "placeholder.jpg",
-    "description": "lorem ipsum",
-    "category": "Project",
+    "name": "Faros Sea Residence",
+    "imgUrl": "farossearesidence.png",
+    "description": "Faros Sea Residence is an exclusive collection of beachfront villas within a peaceful gated community offering 16 unique villas for private ownership. The development is located on the east coast of Cyprus, conveniently situated only 10 minutes from the islands main International Airport and 15 minutes from Larnaka city centre offering culture, entertainment, restaurants and shopping. These beautiful villas which boast an exemplary finish and presented to the highest possible standard, are situated in a private location maintaining a serene and quite ambience. Careful planning provides extremely comfortable accommodation offering a wealth of living space and ample entertaining areas for your family and honored guests. The villas boast extremely spacious 5, 6 and 7 bedroom family homes, offering extensive living areas from 676m² to 1703m². Each villa is well laid out for personal living and entertainment, but perhaps the best thing of all are their large landscaped gardens with magnificent private swimming pools which allow you to enjoy outdoor activities in total seclusion. The villas are built on individual plots, ranging from 1,082m² to 3,492m², ensuring the utmost in space and harmony. A rare opportunity to secure some of Larnaka’s remaining prime real estate in an exceptional development located in Pervolia. The project is completed and sales have commenced. The Faros Sea Residence, luxury at its best.",
+    "category": "Website",
     "stack": "WordPress",
-    "skills": ["html", "css", "js"],
+    "skills": ["HTML5", "CSS3", "JS", "jQuery", "PHP"],
     "state": "live",
-    "liveFlag": false,
-    "liveUrl": "https://wwww.live.com"
+    "liveFlag": true,
+    "liveUrl": "https://farossearesidence.com/"
   }
 ]
