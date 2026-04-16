@@ -11,8 +11,6 @@ export function handleHomeRoute(method, pathname) {
       "/api",
       "/api/projects",
       "/api/project/:id",
-      "/api/services",
-      "/api/service/:id",
       "/api/skills",
       "/api/skill/:id",
     ],

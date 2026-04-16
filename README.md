@@ -26,10 +26,6 @@ pnpm deploy
 
 `GET /api/project/:id`
 
-`GET /api/services`
-
-`GET /api/service/:id`
-
 `GET /api/skills`
 
 `GET /api/skill/:id`
