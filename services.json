@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development",
+    "slug": "web-development",
+    "description": "Custom marketing sites, business websites, and portfolio builds focused on performance, accessibility, and maintainable frontend architecture.",
+    "features": [
+      "Responsive UI implementation",
+      "Reusable component development",
+      "Performance optimization",
+      "API and CMS integration"
+    ],
+    "stack": ["HTML", "CSS", "JavaScript", "React", "WordPress"]
+  },
+  {
+    "id": 2,
+    "title": "E-Commerce Development",
+    "slug": "e-commerce-development",
+    "description": "Online store setup and customization with attention to conversion, product structure, payment flows, and operational simplicity.",
+    "features": [
+      "Storefront customization",
+      "Product and category setup",
+      "Checkout flow improvements",
+      "Third-party service integration"
+    ],
+    "stack": ["WooCommerce", "Shopify", "JavaScript", "PHP"]
+  },
+  {
+    "id": 3,
+    "title": "Website Maintenance",
+    "slug": "website-maintenance",
+    "description": "Ongoing support for existing websites including bug fixes, content updates, dependency updates, and stability improvements.",
+    "features": [
+      "Issue triage and fixes",
+      "Content and layout updates",
+      "Plugin and dependency maintenance",
+      "Monitoring and iterative improvements"
+    ],
+    "stack": ["WordPress", "JavaScript", "PHP", "CSS"]
+  }
+]

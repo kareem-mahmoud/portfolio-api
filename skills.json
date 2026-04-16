@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "HTML5",
+    "category": "Frontend",
+    "level": "Advanced",
+    "description": "Semantic markup, accessibility-minded structure, and clean content architecture for modern web interfaces."
+  },
+  {
+    "id": 2,
+    "name": "CSS3",
+    "category": "Frontend",
+    "level": "Advanced",
+    "description": "Responsive layouts, animation, component styling, and maintainable design systems for polished UI work."
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "category": "Frontend",
+    "level": "Advanced",
+    "description": "Interactive client-side behavior, API integration, dynamic rendering, and practical application logic."
+  },
+  {
+    "id": 4,
+    "name": "React",
+    "category": "Frontend",
+    "level": "Intermediate",
+    "description": "Component-based interfaces, state-driven rendering, and reusable frontend patterns for web apps."
+  },
+  {
+    "id": 5,
+    "name": "WordPress",
+    "category": "CMS",
+    "level": "Advanced",
+    "description": "Custom theme work, plugin configuration, site builds, content management, and deployment workflows."
+  },
+  {
+    "id": 6,
+    "name": "PHP",
+    "category": "Backend",
+    "level": "Intermediate",
+    "description": "Server-side logic, template integration, and backend customization for content-driven websites."
+  }
+]
