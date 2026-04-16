@@ -1,13 +1,11 @@
 import { json, withCors } from "./lib/response.js";
 import { handleHomeRoute } from "./routes/home.js";
 import { handleProjectRoutes } from "./routes/projects.js";
-import { handleServiceRoutes } from "./routes/services.js";
 import { handleSkillRoutes } from "./routes/skills.js";
 
 const routes = [
   handleHomeRoute,
   handleProjectRoutes,
-  handleServiceRoutes,
   handleSkillRoutes,
 ];
 
