@@ -1,22 +1,6 @@
 [
   {
     "id": 1,
-    "name": "HTML5",
-    "category": "Frontend",
-    "type": "Markup Language",
-    "level": "Advanced",
-    "description": "Semantic markup, accessibility-minded structure, and clean content architecture for modern web interfaces."
-  },
-  {
-    "id": 2,
-    "name": "CSS3",
-    "category": "Frontend",
-    "type": "Styling Language",
-    "level": "Advanced",
-    "description": "Responsive layouts, animation, component styling, and maintainable design systems for polished UI work."
-  },
-  {
-    "id": 3,
     "name": "JavaScript",
     "category": "Frontend",
     "type": "Programming Language",
@@ -24,15 +8,55 @@
     "description": "Interactive client-side behavior, API integration, dynamic rendering, and practical application logic."
   },
   {
+    "id": 2,
+    "name": "TypeScript",
+    "category": "Frontend",
+    "type": "Programming Language",
+    "level": "Intermediate",
+    "description": "Type-safe application logic, reusable interfaces, and typed API integration for reliable, maintainable frontend code."
+  },
+  {
+    "id": 3,
+    "name": "Angular",
+    "category": "Frontend",
+    "type": "Framework",
+    "level": "Intermediate",
+    "description": "Component-based applications, dependency injection, routing, and reactive forms for structured, maintainable web interfaces."
+  },
+  {
     "id": 4,
-    "name": "React",
+    "name": "RxJS",
     "category": "Frontend",
     "type": "Library",
     "level": "Intermediate",
-    "description": "Component-based interfaces, state-driven rendering, and reusable frontend patterns for web apps."
+    "description": "Reactive programming with observables and operators to manage asynchronous data, user events, and API request flows."
   },
   {
     "id": 5,
+    "name": "HTML5",
+    "category": "Frontend",
+    "type": "Markup Language",
+    "level": "Advanced",
+    "description": "Semantic markup, accessibility-minded structure, and clean content architecture for modern web interfaces."
+  },
+  {
+    "id": 6,
+    "name": "CSS3",
+    "category": "Frontend",
+    "type": "Styling Language",
+    "level": "Advanced",
+    "description": "Responsive layouts, animation, component styling, and maintainable design systems for polished UI work."
+  },
+  {
+    "id": 7,
+    "name": "React",
+    "category": "Frontend",
+    "type": "Library",
+    "level": "Beginner",
+    "description": "Component-based interfaces, state-driven rendering, and reusable frontend patterns for web apps."
+  },
+  {
+    "id": 8,
     "name": "WordPress",
     "category": "CMS",
     "type": "Platform",
@@ -40,7 +64,7 @@
     "description": "Custom theme work, plugin configuration, site builds, content management, and deployment workflows."
   },
   {
-    "id": 6,
+    "id": 9,
     "name": "PHP",
     "category": "Backend",
     "type": "Programming Language",

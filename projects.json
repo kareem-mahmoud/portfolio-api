@@ -82,5 +82,17 @@
     "state": "live",
     "liveFlag": false,
     "liveUrl": "https://"
+  },
+  {
+    "id": 8,
+    "name": "Crawler Business App",
+    "imgUrl": "Crawler.png",
+    "description": "",
+    "category": "Dashboard Application",
+    "stack": "Angular",
+    "skills": ["HTML5", "Sass", "TS", "Angular", "RxJS", "NodeJS", "ExpressJS"],
+    "state": "live",
+    "liveFlag": false,
+    "liveUrl": "https://"
   }
 ]
