@@ -296,14 +296,6 @@
     "description": "Building responsive HTML emails, reusable templates, compatibility-focused layouts, and email testing workflows."
   },
   {
-    "id": 38,
-    "name": "WordPress Blocks",
-    "category": "CMS",
-    "type": "WordPress Development",
-    "level": "Advanced",
-    "description": "Creating and configuring block-based WordPress content and page-building workflows."
-  },
-  {
     "id": 39,
     "name": "WordPress Toolset",
     "category": "CMS",
