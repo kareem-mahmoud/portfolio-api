@@ -9,30 +9,6 @@
   },
   {
     "id": 2,
-    "name": "TypeScript",
-    "category": "Frontend",
-    "type": "Programming Language",
-    "level": "Intermediate",
-    "description": "Type-safe application logic, reusable interfaces, and typed API integration for reliable, maintainable frontend code."
-  },
-  {
-    "id": 3,
-    "name": "Angular",
-    "category": "Frontend",
-    "type": "Framework",
-    "level": "Intermediate",
-    "description": "Component-based applications, dependency injection, routing, and reactive forms for structured, maintainable web interfaces."
-  },
-  {
-    "id": 4,
-    "name": "RxJS",
-    "category": "Frontend",
-    "type": "Library",
-    "level": "Intermediate",
-    "description": "Reactive programming with observables and operators to manage asynchronous data, user events, and API request flows."
-  },
-  {
-    "id": 5,
     "name": "HTML5",
     "category": "Frontend",
     "type": "Markup Language",
@@ -40,7 +16,7 @@
     "description": "Semantic markup, accessibility-minded structure, and clean content architecture for modern web interfaces."
   },
   {
-    "id": 6,
+    "id": 3,
     "name": "CSS3",
     "category": "Frontend",
     "type": "Styling Language",
@@ -48,15 +24,7 @@
     "description": "Responsive layouts, animation, component styling, and maintainable design systems for polished UI work."
   },
   {
-    "id": 7,
-    "name": "React",
-    "category": "Frontend",
-    "type": "Library",
-    "level": "Beginner",
-    "description": "Component-based interfaces, state-driven rendering, and reusable frontend patterns for web apps."
-  },
-  {
-    "id": 8,
+    "id": 4,
     "name": "WordPress",
     "category": "CMS",
     "type": "Platform",
@@ -64,15 +32,7 @@
     "description": "Custom theme work, plugin configuration, site builds, content management, and deployment workflows."
   },
   {
-    "id": 9,
-    "name": "PHP",
-    "category": "Backend",
-    "type": "Programming Language",
-    "level": "Intermediate",
-    "description": "Server-side logic, template integration, and backend customization for content-driven websites."
-  },
-  {
-    "id": 10,
+    "id": 5,
     "name": "Angular CLI",
     "category": "Frontend",
     "type": "Development Tool",
@@ -80,7 +40,7 @@
     "description": "Project scaffolding, development workflows, builds, testing, and deployment support for Angular applications."
   },
   {
-    "id": 11,
+    "id": 6,
     "name": "Angular Material",
     "category": "Frontend",
     "type": "UI Library",
@@ -88,7 +48,7 @@
     "description": "Material Design components, theming, layout utilities, and accessible interface patterns for Angular applications."
   },
   {
-    "id": 12,
+    "id": 7,
     "name": "jQuery",
     "category": "Frontend",
     "type": "Library",
@@ -96,7 +56,7 @@
     "description": "DOM manipulation, event handling, animations, and AJAX integrations for browser-based interfaces."
   },
   {
-    "id": 13,
+    "id": 8,
     "name": "Semantic HTML",
     "category": "Frontend",
     "type": "Markup Practice",
@@ -104,7 +64,7 @@
     "description": "Meaningful HTML structure that improves accessibility, maintainability, search visibility, and content architecture."
   },
   {
-    "id": 14,
+    "id": 9,
     "name": "HTML Validation",
     "category": "Frontend",
     "type": "Quality Practice",
@@ -112,7 +72,7 @@
     "description": "Validating markup against web standards to catch structural, accessibility, and compatibility issues."
   },
   {
-    "id": 15,
+    "id": 10,
     "name": "Flexbox",
     "category": "Frontend",
     "type": "CSS Layout",
@@ -120,7 +80,7 @@
     "description": "One-dimensional responsive layouts with flexible alignment, ordering, sizing, and spacing."
   },
   {
-    "id": 16,
+    "id": 11,
     "name": "CSS Grid",
     "category": "Frontend",
     "type": "CSS Layout",
@@ -128,7 +88,7 @@
     "description": "Two-dimensional responsive layouts using grid tracks, areas, alignment, and adaptive placement."
   },
   {
-    "id": 17,
+    "id": 12,
     "name": "CSS Box Model",
     "category": "Frontend",
     "type": "CSS Fundamental",
@@ -136,7 +96,7 @@
     "description": "Precise control of content, padding, borders, margins, sizing, and element dimensions."
   },
   {
-    "id": 18,
+    "id": 13,
     "name": "Responsive Design",
     "category": "Frontend",
     "type": "Design Practice",
@@ -144,7 +104,7 @@
     "description": "Adaptive interfaces that provide usable layouts and interactions across screen sizes and devices."
   },
   {
-    "id": 19,
+    "id": 14,
     "name": "CSS Media Queries",
     "category": "Frontend",
     "type": "CSS Feature",
@@ -152,7 +112,7 @@
     "description": "Conditional styling for responsive layouts, viewport changes, user preferences, and device capabilities."
   },
   {
-    "id": 20,
+    "id": 15,
     "name": "Sass",
     "category": "Frontend",
     "type": "CSS Preprocessor",
@@ -160,7 +120,7 @@
     "description": "Variables, nesting, mixins, functions, and modular stylesheets for scalable CSS development."
   },
   {
-    "id": 21,
+    "id": 16,
     "name": "SCSS",
     "category": "Frontend",
     "type": "CSS Preprocessor",
@@ -168,7 +128,7 @@
     "description": "CSS-compatible Sass syntax for organized, reusable, and maintainable stylesheets."
   },
   {
-    "id": 22,
+    "id": 17,
     "name": "LESS",
     "category": "Frontend",
     "type": "CSS Preprocessor",
@@ -176,7 +136,7 @@
     "description": "Variables, mixins, nesting, and functions for generating maintainable CSS."
   },
   {
-    "id": 23,
+    "id": 18,
     "name": "Bootstrap",
     "category": "Frontend",
     "type": "UI Framework",
@@ -184,7 +144,7 @@
     "description": "Responsive grid systems, components, utilities, and customization across Bootstrap versions 3, 4, and 5."
   },
   {
-    "id": 24,
+    "id": 19,
     "name": "Tailwind CSS",
     "category": "Frontend",
     "type": "CSS Framework",
@@ -192,7 +152,7 @@
     "description": "Utility-first responsive styling, design tokens, component composition, and custom UI systems."
   },
   {
-    "id": 25,
+    "id": 20,
     "name": "Gulp",
     "category": "Tooling",
     "type": "Build Tool",
@@ -200,7 +160,7 @@
     "description": "Automated asset processing, task orchestration, and frontend build workflows."
   },
   {
-    "id": 26,
+    "id": 21,
     "name": "npm",
     "category": "Tooling",
     "type": "Package Manager",
@@ -208,7 +168,7 @@
     "description": "JavaScript dependency management, scripts, package publishing, and project automation."
   },
   {
-    "id": 27,
+    "id": 22,
     "name": "nvm",
     "category": "Tooling",
     "type": "Runtime Manager",
@@ -216,7 +176,7 @@
     "description": "Installing, switching, and managing Node.js versions across development projects."
   },
   {
-    "id": 28,
+    "id": 23,
     "name": "Git",
     "category": "Tooling",
     "type": "Version Control",
@@ -224,7 +184,7 @@
     "description": "Source control, branching, merging, history management, and collaborative development workflows."
   },
   {
-    "id": 29,
+    "id": 24,
     "name": "GitHub",
     "category": "Tooling",
     "type": "Collaboration Platform",
@@ -232,7 +192,7 @@
     "description": "Repository hosting, pull requests, issue tracking, code review, and team collaboration."
   },
   {
-    "id": 30,
+    "id": 25,
     "name": "UI Architecture",
     "category": "UI/UX",
     "type": "Architecture Practice",
@@ -240,7 +200,7 @@
     "description": "Structuring reusable, scalable, maintainable, and consistent user interface systems."
   },
   {
-    "id": 31,
+    "id": 26,
     "name": "BEM Methodology",
     "category": "UI/UX",
     "type": "CSS Methodology",
@@ -248,7 +208,7 @@
     "description": "Block, Element, Modifier naming and component organization for predictable CSS architecture."
   },
   {
-    "id": 32,
+    "id": 27,
     "name": "Refactoring",
     "category": "Engineering",
     "type": "Development Practice",
@@ -256,7 +216,7 @@
     "description": "Improving code structure, readability, maintainability, and reuse without changing behavior."
   },
   {
-    "id": 33,
+    "id": 28,
     "name": "Theming",
     "category": "UI/UX",
     "type": "Design System Practice",
@@ -264,15 +224,7 @@
     "description": "Creating reusable visual themes, tokens, styles, and variants for consistent interfaces."
   },
   {
-    "id": 34,
-    "name": "Component-Based Design",
-    "category": "UI/UX",
-    "type": "Design Practice",
-    "level": "Advanced",
-    "description": "Designing interfaces as reusable, composable components with consistent behavior and visual rules."
-  },
-  {
-    "id": 35,
+    "id": 29,
     "name": "Canvas",
     "category": "Frontend",
     "type": "Web API",
@@ -280,7 +232,15 @@
     "description": "Drawing, visual effects, custom graphics, and interactive browser-based visualizations."
   },
   {
-    "id": 36,
+    "id": 30,
+    "name": "Component-Based Design",
+    "category": "UI/UX",
+    "type": "Design Practice",
+    "level": "Advanced",
+    "description": "Designing interfaces as reusable, composable components with consistent behavior and visual rules."
+  },
+  {
+    "id": 31,
     "name": "SVG",
     "category": "Frontend",
     "type": "Graphics Technology",
@@ -288,7 +248,7 @@
     "description": "Scalable vector graphics, icons, illustrations, animations, and responsive visual assets."
   },
   {
-    "id": 37,
+    "id": 32,
     "name": "Email Development",
     "category": "Frontend",
     "type": "Specialized Development",
@@ -296,7 +256,7 @@
     "description": "Building responsive HTML emails, reusable templates, compatibility-focused layouts, and email testing workflows."
   },
   {
-    "id": 38,
+    "id": 33,
     "name": "WordPress Blocks",
     "category": "CMS",
     "type": "WordPress Development",
@@ -304,7 +264,7 @@
     "description": "Creating and configuring block-based WordPress content and page-building workflows."
   },
   {
-    "id": 39,
+    "id": 34,
     "name": "WordPress Toolset",
     "category": "CMS",
     "type": "WordPress Plugin",
@@ -312,7 +272,7 @@
     "description": "Building custom WordPress content structures, templates, and fields with Toolset."
   },
   {
-    "id": 40,
+    "id": 35,
     "name": "Astra",
     "category": "CMS",
     "type": "WordPress Theme",
@@ -320,7 +280,7 @@
     "description": "Configuring and customizing the Astra WordPress theme for performant, responsive websites."
   },
   {
-    "id": 41,
+    "id": 36,
     "name": "Elementor",
     "category": "CMS",
     "type": "WordPress Page Builder",
@@ -328,7 +288,7 @@
     "description": "Building and customizing WordPress pages, layouts, components, and responsive styles with Elementor."
   },
   {
-    "id": 42,
+    "id": 37,
     "name": "Agile",
     "category": "Engineering",
     "type": "Development Methodology",
@@ -336,7 +296,7 @@
     "description": "Iterative planning, incremental delivery, collaboration, and continuous improvement in development work."
   },
   {
-    "id": 43,
+    "id": 38,
     "name": "Lazy Loading",
     "category": "Frontend",
     "type": "Performance Technique",
@@ -344,7 +304,7 @@
     "description": "Deferring non-critical resources to improve initial load performance and user experience."
   },
   {
-    "id": 44,
+    "id": 39,
     "name": "Debugging",
     "category": "Engineering",
     "type": "Development Practice",
@@ -352,7 +312,7 @@
     "description": "Diagnosing, isolating, and resolving defects across frontend applications and browser environments."
   },
   {
-    "id": 45,
+    "id": 40,
     "name": "UI Testing",
     "category": "Quality Assurance",
     "type": "Testing Practice",
@@ -360,7 +320,7 @@
     "description": "Validating interface behavior, interactions, visual states, and responsive experiences."
   },
   {
-    "id": 46,
+    "id": 41,
     "name": "Web Performance Optimization",
     "category": "Frontend",
     "type": "Performance Practice",
@@ -368,207 +328,7 @@
     "description": "Improving load speed, rendering performance, resource delivery, and runtime responsiveness."
   },
   {
-    "id": 47,
-    "name": "JavaScript Data Structures and Algorithms",
-    "category": "Engineering",
-    "type": "Programming Fundamentals",
-    "level": "Intermediate",
-    "description": "Applying data structures, algorithmic reasoning, complexity analysis, and problem-solving techniques in JavaScript."
-  },
-  {
-    "id": 48,
-    "name": "Design Patterns",
-    "category": "Engineering",
-    "type": "Software Design",
-    "level": "Intermediate",
-    "description": "Reusable solutions for common software design, architecture, and object interaction problems."
-  },
-  {
-    "id": 49,
-    "name": "Object-Oriented Programming",
-    "category": "Engineering",
-    "type": "Programming Paradigm",
-    "level": "Intermediate",
-    "description": "Encapsulation, abstraction, inheritance, and polymorphism for organizing maintainable application code."
-  },
-  {
-    "id": 50,
-    "name": "Information Architecture",
-    "category": "UI/UX",
-    "type": "UX Practice",
-    "level": "Intermediate",
-    "description": "Organizing content, navigation, structure, and relationships to make products clear and usable."
-  },
-  {
-    "id": 51,
-    "name": "User Flows",
-    "category": "UI/UX",
-    "type": "UX Practice",
-    "level": "Intermediate",
-    "description": "Mapping user journeys, decisions, interactions, and task completion paths through digital products."
-  },
-  {
-    "id": 52,
-    "name": "UI Design Patterns",
-    "category": "UI/UX",
-    "type": "Design Practice",
-    "level": "Intermediate",
-    "description": "Applying established interface patterns for navigation, forms, feedback, content, and interaction design."
-  },
-  {
-    "id": 53,
-    "name": "UI/UX Documentation",
-    "category": "UI/UX",
-    "type": "Design Practice",
-    "level": "Intermediate",
-    "description": "Documenting interface decisions, user flows, component behavior, design specifications, and outlines."
-  },
-  {
-    "id": 54,
-    "name": "Sketch",
-    "category": "UI/UX",
-    "type": "Design Tool",
-    "level": "Intermediate",
-    "description": "Creating interface designs, wireframes, symbols, prototypes, and reusable design components."
-  },
-  {
-    "id": 55,
-    "name": "InVision",
-    "category": "UI/UX",
-    "type": "Prototyping Tool",
-    "level": "Intermediate",
-    "description": "Creating interactive prototypes, sharing design concepts, and collecting interface feedback."
-  },
-  {
-    "id": 56,
-    "name": "Figma",
-    "category": "UI/UX",
-    "type": "Design Tool",
-    "level": "Intermediate",
-    "description": "Collaborative interface design, prototyping, component systems, and design handoff."
-  },
-  {
-    "id": 57,
-    "name": "Adobe Photoshop",
-    "category": "UI/UX",
-    "type": "Design Tool",
-    "level": "Intermediate",
-    "description": "Raster image editing, compositing, retouching, and visual asset preparation."
-  },
-  {
-    "id": 58,
-    "name": "Adobe Illustrator",
-    "category": "UI/UX",
-    "type": "Design Tool",
-    "level": "Intermediate",
-    "description": "Vector illustration, icon creation, branding assets, and scalable graphic design."
-  },
-  {
-    "id": 59,
-    "name": "Adobe XD",
-    "category": "UI/UX",
-    "type": "Design Tool",
-    "level": "Intermediate",
-    "description": "Wireframing, interface design, interactive prototyping, and design handoff."
-  },
-  {
-    "id": 60,
-    "name": "Adobe Dreamweaver",
-    "category": "Frontend",
-    "type": "Development Tool",
-    "level": "Intermediate",
-    "description": "Visual and code-based authoring of HTML, CSS, and web pages."
-  },
-  {
-    "id": 61,
-    "name": "AI Tools",
-    "category": "Tooling",
-    "type": "Productivity Technology",
-    "level": "Intermediate",
-    "description": "Using AI-assisted tools to support design, development, research, content, and productivity workflows."
-  },
-  {
-    "id": 62,
-    "name": "C/C++",
-    "category": "Backend",
-    "type": "Programming Language",
-    "level": "Beginner",
-    "description": "Foundational programming, procedural logic, memory concepts, and compiled application development."
-  },
-  {
-    "id": 63,
-    "name": "Python",
-    "category": "Backend",
-    "type": "Programming Language",
-    "level": "Beginner",
-    "description": "Foundational scripting, automation, data handling, and general-purpose programming."
-  },
-  {
-    "id": 64,
-    "name": "SQL",
-    "category": "Backend",
-    "type": "Query Language",
-    "level": "Beginner",
-    "description": "Querying, filtering, joining, and managing relational database data."
-  },
-  {
-    "id": 65,
-    "name": ".NET",
-    "category": "Backend",
-    "type": "Development Platform",
-    "level": "Beginner",
-    "description": "Foundational familiarity with the .NET platform and its application development ecosystem."
-  },
-  {
-    "id": 66,
-    "name": "Node.js",
-    "category": "Backend",
-    "type": "Runtime",
-    "level": "Beginner",
-    "description": "Server-side JavaScript runtime for APIs, scripts, tooling, and asynchronous applications."
-  },
-  {
-    "id": 67,
-    "name": "Express.js",
-    "category": "Backend",
-    "type": "Framework",
-    "level": "Beginner",
-    "description": "Lightweight Node.js framework for routing, middleware, and HTTP API development."
-  },
-  {
-    "id": 68,
-    "name": "Laravel",
-    "category": "Backend",
-    "type": "Framework",
-    "level": "Beginner",
-    "description": "PHP framework fundamentals including routing, MVC structure, views, and application development."
-  },
-  {
-    "id": 69,
-    "name": "MongoDB",
-    "category": "Backend",
-    "type": "Database",
-    "level": "Beginner",
-    "description": "Document-oriented data modeling, querying, and storage with a NoSQL database."
-  },
-  {
-    "id": 70,
-    "name": "Vue.js",
-    "category": "Frontend",
-    "type": "Framework",
-    "level": "Beginner",
-    "description": "Component-based interfaces, reactive data binding, and progressive frontend application development."
-  },
-  {
-    "id": 71,
-    "name": "PostgreSQL",
-    "category": "Backend",
-    "type": "Database",
-    "level": "Beginner",
-    "description": "Relational data modeling, SQL querying, and database management with PostgreSQL."
-  },
-  {
-    "id": 72,
+    "id": 42,
     "name": "Web Accessibility",
     "category": "Frontend",
     "type": "Quality Practice",
@@ -576,7 +336,7 @@
     "description": "Building inclusive interfaces with accessible semantics, keyboard support, focus management, and assistive technology compatibility."
   },
   {
-    "id": 73,
+    "id": 43,
     "name": "CSS Display",
     "category": "Frontend",
     "type": "CSS Fundamental",
@@ -584,7 +344,159 @@
     "description": "Controlling element layout behavior with block, inline, flex, grid, table, and related display modes."
   },
   {
-    "id": 74,
+    "id": 44,
+    "name": "TypeScript",
+    "category": "Frontend",
+    "type": "Programming Language",
+    "level": "Intermediate",
+    "description": "Type-safe application logic, reusable interfaces, and typed API integration for reliable, maintainable frontend code."
+  },
+  {
+    "id": 45,
+    "name": "Angular",
+    "category": "Frontend",
+    "type": "Framework",
+    "level": "Intermediate",
+    "description": "Component-based applications, dependency injection, routing, and reactive forms for structured, maintainable web interfaces."
+  },
+  {
+    "id": 46,
+    "name": "RxJS",
+    "category": "Frontend",
+    "type": "Library",
+    "level": "Intermediate",
+    "description": "Reactive programming with observables and operators to manage asynchronous data, user events, and API request flows."
+  },
+  {
+    "id": 47,
+    "name": "PHP",
+    "category": "Backend",
+    "type": "Programming Language",
+    "level": "Intermediate",
+    "description": "Server-side logic, template integration, and backend customization for content-driven websites."
+  },
+  {
+    "id": 48,
+    "name": "JavaScript Data Structures and Algorithms",
+    "category": "Engineering",
+    "type": "Programming Fundamentals",
+    "level": "Intermediate",
+    "description": "Applying data structures, algorithmic reasoning, complexity analysis, and problem-solving techniques in JavaScript."
+  },
+  {
+    "id": 49,
+    "name": "Design Patterns",
+    "category": "Engineering",
+    "type": "Software Design",
+    "level": "Intermediate",
+    "description": "Reusable solutions for common software design, architecture, and object interaction problems."
+  },
+  {
+    "id": 50,
+    "name": "Object-Oriented Programming",
+    "category": "Engineering",
+    "type": "Programming Paradigm",
+    "level": "Intermediate",
+    "description": "Encapsulation, abstraction, inheritance, and polymorphism for organizing maintainable application code."
+  },
+  {
+    "id": 51,
+    "name": "Information Architecture",
+    "category": "UI/UX",
+    "type": "UX Practice",
+    "level": "Intermediate",
+    "description": "Organizing content, navigation, structure, and relationships to make products clear and usable."
+  },
+  {
+    "id": 52,
+    "name": "User Flows",
+    "category": "UI/UX",
+    "type": "UX Practice",
+    "level": "Intermediate",
+    "description": "Mapping user journeys, decisions, interactions, and task completion paths through digital products."
+  },
+  {
+    "id": 53,
+    "name": "UI Design Patterns",
+    "category": "UI/UX",
+    "type": "Design Practice",
+    "level": "Intermediate",
+    "description": "Applying established interface patterns for navigation, forms, feedback, content, and interaction design."
+  },
+  {
+    "id": 54,
+    "name": "UI/UX Documentation",
+    "category": "UI/UX",
+    "type": "Design Practice",
+    "level": "Intermediate",
+    "description": "Documenting interface decisions, user flows, component behavior, design specifications, and outlines."
+  },
+  {
+    "id": 55,
+    "name": "Sketch",
+    "category": "UI/UX",
+    "type": "Design Tool",
+    "level": "Intermediate",
+    "description": "Creating interface designs, wireframes, symbols, prototypes, and reusable design components."
+  },
+  {
+    "id": 56,
+    "name": "InVision",
+    "category": "UI/UX",
+    "type": "Prototyping Tool",
+    "level": "Intermediate",
+    "description": "Creating interactive prototypes, sharing design concepts, and collecting interface feedback."
+  },
+  {
+    "id": 57,
+    "name": "Figma",
+    "category": "UI/UX",
+    "type": "Design Tool",
+    "level": "Intermediate",
+    "description": "Collaborative interface design, prototyping, component systems, and design handoff."
+  },
+  {
+    "id": 58,
+    "name": "Adobe Photoshop",
+    "category": "UI/UX",
+    "type": "Design Tool",
+    "level": "Intermediate",
+    "description": "Raster image editing, compositing, retouching, and visual asset preparation."
+  },
+  {
+    "id": 59,
+    "name": "Adobe Illustrator",
+    "category": "UI/UX",
+    "type": "Design Tool",
+    "level": "Intermediate",
+    "description": "Vector illustration, icon creation, branding assets, and scalable graphic design."
+  },
+  {
+    "id": 60,
+    "name": "Adobe XD",
+    "category": "UI/UX",
+    "type": "Design Tool",
+    "level": "Intermediate",
+    "description": "Wireframing, interface design, interactive prototyping, and design handoff."
+  },
+  {
+    "id": 61,
+    "name": "Adobe Dreamweaver",
+    "category": "Frontend",
+    "type": "Development Tool",
+    "level": "Intermediate",
+    "description": "Visual and code-based authoring of HTML, CSS, and web pages."
+  },
+  {
+    "id": 62,
+    "name": "AI Tools",
+    "category": "Tooling",
+    "type": "Productivity Technology",
+    "level": "Intermediate",
+    "description": "Using AI-assisted tools to support design, development, research, content, and productivity workflows."
+  },
+  {
+    "id": 63,
     "name": "Color Theory and Typography",
     "category": "UI/UX",
     "type": "Design Foundation",
@@ -592,11 +504,99 @@
     "description": "Applying color relationships, contrast, hierarchy, font selection, scale, spacing, and readable type systems."
   },
   {
-    "id": 75,
+    "id": 64,
     "name": "UI Design",
     "category": "UI/UX",
     "type": "Design Practice",
     "level": "Intermediate",
     "description": "Designing clear, consistent, responsive, and visually effective user interfaces."
+  },
+  {
+    "id": 65,
+    "name": "React",
+    "category": "Frontend",
+    "type": "Library",
+    "level": "Beginner",
+    "description": "Component-based interfaces, state-driven rendering, and reusable frontend patterns for web apps."
+  },
+  {
+    "id": 66,
+    "name": "C/C++",
+    "category": "Backend",
+    "type": "Programming Language",
+    "level": "Beginner",
+    "description": "Foundational programming, procedural logic, memory concepts, and compiled application development."
+  },
+  {
+    "id": 67,
+    "name": "Python",
+    "category": "Backend",
+    "type": "Programming Language",
+    "level": "Beginner",
+    "description": "Foundational scripting, automation, data handling, and general-purpose programming."
+  },
+  {
+    "id": 68,
+    "name": "SQL",
+    "category": "Backend",
+    "type": "Query Language",
+    "level": "Beginner",
+    "description": "Querying, filtering, joining, and managing relational database data."
+  },
+  {
+    "id": 69,
+    "name": ".NET",
+    "category": "Backend",
+    "type": "Development Platform",
+    "level": "Beginner",
+    "description": "Foundational familiarity with the .NET platform and its application development ecosystem."
+  },
+  {
+    "id": 70,
+    "name": "Node.js",
+    "category": "Backend",
+    "type": "Runtime",
+    "level": "Beginner",
+    "description": "Server-side JavaScript runtime for APIs, scripts, tooling, and asynchronous applications."
+  },
+  {
+    "id": 71,
+    "name": "Express.js",
+    "category": "Backend",
+    "type": "Framework",
+    "level": "Beginner",
+    "description": "Lightweight Node.js framework for routing, middleware, and HTTP API development."
+  },
+  {
+    "id": 72,
+    "name": "Laravel",
+    "category": "Backend",
+    "type": "Framework",
+    "level": "Beginner",
+    "description": "PHP framework fundamentals including routing, MVC structure, views, and application development."
+  },
+  {
+    "id": 73,
+    "name": "MongoDB",
+    "category": "Backend",
+    "type": "Database",
+    "level": "Beginner",
+    "description": "Document-oriented data modeling, querying, and storage with a NoSQL database."
+  },
+  {
+    "id": 74,
+    "name": "Vue.js",
+    "category": "Frontend",
+    "type": "Framework",
+    "level": "Beginner",
+    "description": "Component-based interfaces, reactive data binding, and progressive frontend application development."
+  },
+  {
+    "id": 75,
+    "name": "PostgreSQL",
+    "category": "Backend",
+    "type": "Database",
+    "level": "Beginner",
+    "description": "Relational data modeling, SQL querying, and database management with PostgreSQL."
   }
 ]
